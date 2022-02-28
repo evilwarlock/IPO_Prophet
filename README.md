@@ -15,6 +15,6 @@ Xian, Ye, Social Media Sentiment and IPO Pricing (March 2021). Available at SSRN
 
 IPO data, partially from https://github.com/k-bosko/IPO_bubble
 
-'''
+```
 {"id":1,"content":"Hello, Professor!"}
-'''
+```
